@@ -42,7 +42,4 @@ excel.save(r'C:\Users\chide\Desktop\imdb movie rating2.xlsx')
 
 
 
-#url = 'https://www.kdnuggets.com/2023/02/5-data-analysis-projects-beginners.html?utm_content=242036367&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3740012'
-#browser = we
-
 
